@@ -1,10 +1,10 @@
 <h1>Hello</h1>
-
-My name is Malcolm, pronouns "He/Him".<br>
 <h4>Currently learning:</h4>
 
 React.js and PHP <br>
 
+<h4>Who am I?</h4>
+My name is Malcolm, pronouns "He/Him".<br>
 HTML,CSS,JavaScript/jQuery veteran <br>
 Ask me about obscure Jazz music from Japan and Brazil. (in addition to any other type of music) <br> Suggest me songs on:<br> 
 &#x1F3B5; 
