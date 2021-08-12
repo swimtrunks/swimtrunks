@@ -1,7 +1,7 @@
 <h1>Hello</h1>
 <h4>Currently learning:</h4>
 
-MongoDb & React <br>
+MongoDB & React <br>
 
 <h4>Who am I?</h4>
 My name is Malcolm, pronouns "He/Him".<br />
