@@ -1,7 +1,7 @@
 <h1>Hello</h1>
-<h4>Currently learning:</h4>
+<h4>Currently working with / learning: </h4>
 
-Increasing proficiency with MERN stack <br>
+Storybook.js, TypeScript, Ruby on Rails & Figma<br>
 
 <h4>Who am I?</h4>
 My name is Malcolm, pronouns "He/Him".<br />
