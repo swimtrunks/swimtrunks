@@ -4,7 +4,7 @@
 Storybook.js, TypeScript, Ruby on Rails & Figma<br>
 
 <h4>Who am I?</h4>
-My name is Malcolm, pronouns "He/Him".<br />
+My name is <a href="https://malcolmpeterson.com" target="_blank" rel="noreferrer noopener">Malcolm</a>, pronouns "He/Him".<br />
 Front-End veteran | MERN <br /><br />
 Ask me about obscure Jazz music from Japan and Brazil. (in addition to any other type of music) <br> Suggest me songs on:<br> 
 &#x1F3B5; 
